@@ -1,0 +1,2 @@
+ui-state-default
+ui-icon ui-icon-arrowthick-2-n-s
