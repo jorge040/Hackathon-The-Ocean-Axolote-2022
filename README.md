@@ -35,4 +35,4 @@ Integrantes.
 
 Tecnologias Usadas:
 
-HTML, CSS, JAVASCRIP, Realidad Aumentada.
+HTML, CSS, Javascript, Realidad Aumentada.
