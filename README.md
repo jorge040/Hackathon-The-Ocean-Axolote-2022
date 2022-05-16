@@ -36,6 +36,8 @@ Integrantes.
 
 - Jorge Ivan Cuellar Razo
 
+
+
 Tecnologias Usadas:
 
 HTML, CSS, Javascript, Realidad Aumentada.
