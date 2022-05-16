@@ -35,9 +35,17 @@ Integrantes.
 - Patricia Méndez
 
 - Jorge Ivan Cuellar Razo
-
-
-
+<br>
+<br>
+<br>
 Tecnologias Usadas:
 
-HTML, CSS, Javascript, Realidad Aumentada.
+-HTML
+-CSS
+-Javascript
+-Realidad Aumentada
+-3D
+<br>
+<br>
+Link de despliegue de la pagina en Microsoft Azure.
+https://hacktheocean.z13.web.core.windows.net/
